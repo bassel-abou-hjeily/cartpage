@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "air",
+        "price": 20,
+        "image": "img/air.png"
+    },
+    {
+        "id": 2,
+        "name": "air2",
+        "price": 25,
+        "image": "img/air2.png"
+    },
+    {
+        "id": 3,
+        "name": "blazer",
+        "price": 30,
+        "image": "img/blazer.png"
+    },
+    {
+        "id": 4,
+        "name": "blazer2",
+        "price": 35,
+        "image": "img/blazer2.png"
+    },
+    {
+        "id": 5,
+        "name": "crater",
+        "price": 40,
+        "image": "img/crater.png"
+    },
+    {
+        "id": 6,
+        "name": "crater2",
+        "price": 35,
+        "image": "img/crater2.png"
+    },
+    {
+        "id": 7,
+        "name": "hippie",
+        "price": 30,
+        "image": "img/hippie.png"
+    },
+    {
+        "id": 8,
+        "name": "hippie",
+        "price": 39,
+        "image": "img/hippie2.png"
+    },
+    {
+        "id": 9,
+        "name": "jordan",
+        "price": 10,
+        "image": "img/jordan.png"
+    },
+    {
+        "id": 10,
+        "name": "jordan2",
+        "price": 20,
+        "image": "img/jordan2.png"
+    }
+]
